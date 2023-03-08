@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin:0;
+
+}
+body
+{
+    background: url(https://cdn.pixabay.com/photo/2016/05/05/02/37/sunset-1373171_1280.jpg);
+    font-size:20px;
+    background-size: cover;
+    text-align:center;
+}
+DIV{
+
+        width: 300px;
+        border: 15px solid rgb(122, 0, 128);
+        padding: 50px;
+        margin: 20px;
+        transform: translate(120%, 30%)    
+}
+input[type=text] {
+    width: 130px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;  
+  }
+button{
+    font-size:15px;
+    font-weight:bold;
+    margin:20px 0;
+    width:30%;
+    color :brown;
+}
+  
+
